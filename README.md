@@ -1,9 +1,10 @@
 ## Olá, Meu nome é Bruno 👋
--📚 Atualmente estou estudando a Linguagem Java.
+
+-📚 Atualmente estou me especializando na Linguagem Java direcionado para Back end.
 
 -📚 Framework Spring Boot
 
--📚 Banco de Dados Relaiconal PostgreSQL
+-📚 Banco de Dados PostgreSQL
 
 
 

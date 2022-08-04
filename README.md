@@ -1,7 +1,7 @@
 ## Olá, Meu nome é Bruno 👋
 -📚 Atualmente estou estudando a Linguagem Java.
 
--🌱 Estou me preparando para entrar na área de Desenvolvimento.
+
 
 
 <div align="center">

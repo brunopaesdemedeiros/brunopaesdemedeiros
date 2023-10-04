@@ -2,38 +2,38 @@
 
 -📚 Sou Analista de Qualidade de Software na empresa Senai Soluções Digitais.
 
--📚 Atividades Desempenhadas:
-      - Análise de qualidade de código (clean code).
-      - Análise SOLID - Princípios da Pogramação Orientada à Objetos.
-      - Automação de teste com Robot Framework.
-      - Testes Funcionais, Não funcionais, de Banco de Dados, de Regressão.
-      - Padronização de Processos de Qualidade.
-      - Análise e verificação de projetos no SonarQube.
+-📚 Atividades Desempenhadas:<br><br>
+      - Análise de qualidade de código (clean code).<br>
+      - Análise SOLID - Princípios da Pogramação Orientada à Objetos.<br>
+      - Automação de teste com Robot Framework.<br>
+      - Testes Funcionais, Não funcionais, de Banco de Dados, de Regressão.<br>
+      - Padronização de Processos de Qualidade.<br>
+      - Análise e verificação de projetos no SonarQube.<br>
       
--📚 Linguagens de Programação:
-      - PHP
-      - Java
-      - Python
+-📚 Linguagens de Programação:<br><br>
+      - PHP<br>
+      - Java<br>
+      - Python<br>
 
--📚 Frameworks:
-      - Laravel
-      - Livewire
-      - SpringBoot
-      - Angular
-      - Robot
+-📚 Frameworks:<br><br>
+      - Laravel<br>
+      - Livewire<br>
+      - SpringBoot<br>
+      - Angular<br>
+      - Robot<br>
 
- -📚 Ferramentas:
-     - Docker
-     - SonarQube
-     - Git
-     - Kibana
-     - OKD
-     - Trello
+ -📚 Ferramentas:<br><br>
+     - Docker<br>
+     - SonarQube<br>
+     - Git<br>
+     - Kibana<br>
+     - OKD<br>
+     - Trello<br>
       
--📚 Banco de Dados:
-      - PostgreSQL
-      - MySQL
-      - MongoDB
+-📚 Banco de Dados:<br><br>
+      - PostgreSQL<br>
+      - MySQL<br>
+      - MongoDB<br>
 
 
 
@@ -49,7 +49,8 @@
   <img align="center" alt="Bruno-MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
   <img align="center" alt="Bruno-HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">  
   <img align="center" alt="Bruno-CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"> 
-  <img align="center" alt="Bruno-PHP" height="30" width="40" src="src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+  <img align="center" alt="Bruno-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+      <img align="center" alt="Bruno-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg">
 </div>
   
   ##
